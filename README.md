@@ -9,6 +9,7 @@ Welcome to the React Pokedex Web Application! This application allows you to exp
   - [Features](#usage)
   - [Installation](#installation)
   - [License](#license)
+  - [Acknowledgments](#acknowledgments)
 
 ## About
 A Pokédex is a fictional electronic device in the Pokémon universe. The primary function of a Pokédex is to serve as an encyclopedia or database of information about the various species of Pokémon. Trainers use the Pokédex to record information about Pokémon they encounter and capture during their adventures. This project implements the idea of the pokedex that can accessed through a website by everyone. 
